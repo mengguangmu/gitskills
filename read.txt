@@ -1,2 +1,3 @@
 read.txt
-ni cai
+my done
+gai hao le
